@@ -16,6 +16,8 @@ https://xd.adobe.com/view/ab660c20-4383-44ab-955f-0c6b244dda95-fe35/
 
 Include a link to your public Trello board. Be sure you have user stories added for at least your first 2-week sprint.
 
+https://trello.com/b/uDoj3dUs/all-cap-stone
+
 ### Project Repo Link
 
 Include a link to your project on GitHub.
